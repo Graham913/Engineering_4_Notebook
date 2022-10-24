@@ -39,7 +39,7 @@ The assignment was to take the previous code of the countdown and add lights. Ev
 
 ### Wiring 
 
-![wiring for countdownLED](images/countdownLED.png)  
+![wiring for countdownLED](images/CountdownLED.PNG)  
 &nbsp;
 
 ## Onshape_Assignment_Template
