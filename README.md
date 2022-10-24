@@ -40,6 +40,40 @@ The assignment was to take the previous code of the countdown and add lights. Ev
 ### Wiring 
 
 ![wiring for countdownLED](images/CountdownLED.PNG)  
+
+### Code
+
+### Reflection
+
+This assignment was quite easy, remember if then statements are good for countdowns. Make sure to use two equal signs in your if then statements as well as double checking if you have colons in the right places. My code didn't work until I put While True: pass in it so if your code doesn't work try that.
+
+## Launch Pad Part 3 (button)
+
+### Assignment description
+
+The assignment was to Have the entire previous assignment to start with the push of a button.
+
+### Evidence
+
+### Wiring
+
+### Code
+
+### Reflection
+
+This was a simple change from the previous code. Make sure to have the defining lines of code for the button in the right place. Make sure to have the button value have two equal signs as well as have it encompass the entire if then statement.
+
+## Launch Pad Part 4 (servo)
+
+### Assignment description
+
+The assignment was to have everything that the p[revious assignment has but to have a 180 degree servo activate during liftoff to simulate the launch tower dissconnecting from the rocket.
+
+### Evidence
+
+### Wiring
+
+### Code
 &nbsp;
 
 ## Onshape_Assignment_Template
