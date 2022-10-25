@@ -4,14 +4,14 @@ import board
 import time
 import pwmio
 
-from adafruit_motor import servo
+from adafruit_motor import servo # make sure to have to correct imports in your adafruit library
 
 
 led1 = digitalio.DigitalInOut(board.GP13)
 led2 = digitalio.DigitalInOut(board.GP18)
 button = digitalio.DigitalInOut(board.GP16)
 pwm_servo = pwmio.PWMOut(board.GP0, duty_cycle=2 ** 15, frequency=50)
-servo1 = servo.Servo(pwm_servo, min_pulse=500, max_pulse=2500)
+servo1 = servo.Servo(pwm_servo, min_pulse=500, max_pulse=2500) # check the defines that this is in there
 
 led1.direction = digitalio.Direction.OUTPUT
 led2.direction = digitalio.Direction.OUTPUT
