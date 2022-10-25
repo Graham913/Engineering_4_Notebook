@@ -72,7 +72,7 @@ The assignment was to have everything that the previous assignment has but to ha
 ### Evidence
 
 ### Wiring
-
+![wiring for ServoLED](images/ServoLED.PNG) 
 ### Code
 &nbsp;
 
