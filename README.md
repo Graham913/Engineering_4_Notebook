@@ -70,6 +70,7 @@ This was a simple change from the previous code. Make sure to have the defining 
 The assignment was to have everything that the previous assignment has but to have a 180 degree servo activate during liftoff to simulate the launch tower dissconnecting from the rocket.
 
 ### Evidence
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/71406930/197845180-0aa1530b-3845-4406-81ea-27463ff2b711.gif)
 
 ### Wiring
 ![wiring for ServoLED](images/ServoLED.PNG) 
