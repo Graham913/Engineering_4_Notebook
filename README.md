@@ -75,6 +75,44 @@ The assignment was to have everything that the previous assignment has but to ha
 ### Wiring
 ![wiring for ServoLED](images/ServoLED.PNG) 
 ### Code
+[LED servo countdown code](https://github.com/Graham913/Engineering_4_Notebook/blob/main/raspberry-pi/servo.py)
+
+## Crash Avoidance Part 1
+
+### Assignment Description
+Have an accelerometer that continuously reports x, y, and z acceleration values on the serial monitor.
+
+### Evidence
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/71406930/197847911-220098d5-6e28-44e9-b7e7-5044e7f6bd3b.gif)
+
+
+### Wiring
+![wiring for Crash1](images/Crash1.PNG) 
+
+### Code
+[Crash1 code](https://github.com/Graham913/Engineering_4_Notebook/blob/main/crash1.py)
+
+### Reflection
+This assignment was a big step from the countdowns. Make sure to slowly read the entire assignment becuase it is very easy to miss something small that could complete the code. Make sure to research f strings as well becuase this was the first time I used them and they were very confusing without looking them up.
+
+## Crash Avoidance Part 2
+
+### Assignment Description
+Have an accelerometer that continuously reports x, y, and z acceleration values on the serial monitor and when the module moves to 90 degrees have an LED turn on.
+
+### Evidence
+
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/71406930/197848914-10f1f016-b67c-4159-9725-147a0deeab36.gif)
+
+
+### Wiring
+![wiring for Crash2](images/Crash2.PNG) 
+
+### Code
+[Crash1 code](https://github.com/Graham913/Engineering_4_Notebook/blob/main/crash1.py)
+
+### Reflection
+This isn't too big of a step from crash1. It introduces the if or statement which is for each plane going to 90 degrees. Read carefully when you type it and double check the intergers are right.
 &nbsp;
 
 ## Onshape_Assignment_Template
