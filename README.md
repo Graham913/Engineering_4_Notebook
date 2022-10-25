@@ -36,7 +36,7 @@ For the first assignment that we did it was very simple. for x in range sets the
 The assignment was to take the previous code of the countdown and add lights. Every time it counts down one the red LED blinks and when the countdown reaches 0 it blinks green.
 
 ### Evidence
-
+![![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/71406930/197841638-3e206d30-e9a6-4cca-bc10-f754507e767e.gif))
 ### Wiring 
 
 ![wiring for countdownLED](images/CountdownLED.PNG)  
