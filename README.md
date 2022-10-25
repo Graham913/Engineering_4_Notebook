@@ -95,6 +95,24 @@ Have an accelerometer that continuously reports x, y, and z acceleration values 
 ### Reflection
 This assignment was a big step from the countdowns. Make sure to slowly read the entire assignment becuase it is very easy to miss something small that could complete the code. Make sure to research f strings as well becuase this was the first time I used them and they were very confusing without looking them up.
 
+## Crash Avoidance Part 2
+
+### Assignment Description
+Have an accelerometer that continuously reports x, y, and z acceleration values on the serial monitor and when the module moves to 90 degrees have an LED turn on.
+
+### Evidence
+
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/71406930/197848914-10f1f016-b67c-4159-9725-147a0deeab36.gif)
+
+
+### Wiring
+![wiring for Crash2](images/Crash2.PNG) 
+
+### Code
+[Crash1 code](https://github.com/Graham913/Engineering_4_Notebook/blob/main/crash1.py)
+
+### Reflection
+
 &nbsp;
 
 ## Onshape_Assignment_Template
