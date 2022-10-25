@@ -27,7 +27,7 @@ Give me a link to your code. [Something like this](https://github.com/millerm22/
 
 ### Reflection
 
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+For the first assignment that we did it was very simple. for x in range sets the parameters of the countdown. Make sure your if elsestatement is entirely inside the for x in range.
 
 ## Launch Pad Part 2 (lights)
 
@@ -45,7 +45,7 @@ The assignment was to take the previous code of the countdown and add lights. Ev
 
 ### Reflection
 
-This assignment was quite easy, remember if then statements are good for countdowns. Make sure to use two equal signs in your if then statements as well as double checking if you have colons in the right places. My code didn't work until I put While True: pass in it so if your code doesn't work try that.
+This assignment was quite easy, remember if else statements are good for countdowns that have two things that you want it to do. Make sure to use two equal signs in your if then statements as well as double checking if you have colons in the right places. My code didn't work until I put While True: pass in it so if your code doesn't work try that.
 
 ## Launch Pad Part 3 (button)
 
