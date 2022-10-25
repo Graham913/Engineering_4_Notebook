@@ -36,7 +36,7 @@ For the first assignment that we did it was very simple. for x in range sets the
 The assignment was to take the previous code of the countdown and add lights. Every time it counts down one the red LED blinks and when the countdown reaches 0 it blinks green.
 
 ### Evidence
-
+![![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/71406930/197841638-3e206d30-e9a6-4cca-bc10-f754507e767e.gif))
 ### Wiring 
 
 ![wiring for countdownLED](images/CountdownLED.PNG)  
@@ -54,11 +54,11 @@ This assignment was quite easy, remember if else statements are good for countdo
 The assignment was to Have the entire previous assignment to start with the push of a button.
 
 ### Evidence
-
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/71406930/197843922-ea61a984-48f9-479d-a37f-4af8f85ca74e.gif)
 ### Wiring
-
+![wiring for buttonLED](images/ButtonLED.PNG)
 ### Code
-
+[LED button countdown code](https://github.com/Graham913/Engineering_4_Notebook/blob/main/raspberry-pi/button.py)
 ### Reflection
 
 This was a simple change from the previous code. Make sure to have the defining lines of code for the button in the right place. Make sure to have the button value have two equal signs as well as have it encompass the entire if then statement.
@@ -67,12 +67,13 @@ This was a simple change from the previous code. Make sure to have the defining 
 
 ### Assignment description
 
-The assignment was to have everything that the p[revious assignment has but to have a 180 degree servo activate during liftoff to simulate the launch tower dissconnecting from the rocket.
+The assignment was to have everything that the previous assignment has but to have a 180 degree servo activate during liftoff to simulate the launch tower dissconnecting from the rocket.
 
 ### Evidence
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/71406930/197845180-0aa1530b-3845-4406-81ea-27463ff2b711.gif)
 
 ### Wiring
-
+![wiring for ServoLED](images/ServoLED.PNG) 
 ### Code
 &nbsp;
 
