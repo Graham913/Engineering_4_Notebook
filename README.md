@@ -112,7 +112,7 @@ Have an accelerometer that continuously reports x, y, and z acceleration values 
 [Crash1 code](https://github.com/Graham913/Engineering_4_Notebook/blob/main/crash1.py)
 
 ### Reflection
-
+This isn't too big of a step from crash1. It introduces the if or statement which is for each plane going to 90 degrees. Read carefully when you type it and double check the intergers are right.
 &nbsp;
 
 ## Onshape_Assignment_Template
