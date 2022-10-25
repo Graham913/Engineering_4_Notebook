@@ -76,6 +76,23 @@ The assignment was to have everything that the previous assignment has but to ha
 ![wiring for ServoLED](images/ServoLED.PNG) 
 ### Code
 [LED servo countdown code](https://github.com/Graham913/Engineering_4_Notebook/blob/main/raspberry-pi/servo.py)
+
+## Crash Avoidance Part 1
+
+### Assignment Description
+Have an accelerometer that continuously reports x, y, and z acceleration values on the serial monitor.
+
+### Evidence
+
+
+### Wiring
+![wiring for Crash1](images/ServoLED.PNG) 
+
+### Code
+[Crash1 code](https://github.com/Graham913/Engineering_4_Notebook/blob/main/crash1.py)
+
+
+
 &nbsp;
 
 ## Onshape_Assignment_Template
