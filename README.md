@@ -42,7 +42,7 @@ The assignment was to take the previous code of the countdown and add lights. Ev
 ![wiring for countdownLED](images/CountdownLED.PNG)  
 
 ### Code
-
+[LED countdown code](https://github.com/Graham913/Engineering_4_Notebook/blob/main/raspberry-pi/countdown.py)
 ### Reflection
 
 This assignment was quite easy, remember if else statements are good for countdowns that have two things that you want it to do. Make sure to use two equal signs in your if then statements as well as double checking if you have colons in the right places. My code didn't work until I put While True: pass in it so if your code doesn't work try that.
