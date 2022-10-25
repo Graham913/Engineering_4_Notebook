@@ -92,7 +92,8 @@ Have an accelerometer that continuously reports x, y, and z acceleration values 
 ### Code
 [Crash1 code](https://github.com/Graham913/Engineering_4_Notebook/blob/main/crash1.py)
 
-
+### Reflection
+This assignment was a big step from the countdowns. Make sure to slowly read the entire assignment becuase it is very easy to miss something small that could complete the code. Make sure to research f strings as well becuase this was the first time I used them and they were very confusing without looking them up.
 
 &nbsp;
 
