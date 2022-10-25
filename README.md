@@ -86,7 +86,7 @@ Have an accelerometer that continuously reports x, y, and z acceleration values 
 
 
 ### Wiring
-![wiring for Crash1](images/ServoLED.PNG) 
+![wiring for Crash1](images/Crash1.PNG) 
 
 ### Code
 [Crash1 code](https://github.com/Graham913/Engineering_4_Notebook/blob/main/crash1.py)
