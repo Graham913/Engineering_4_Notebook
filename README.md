@@ -16,7 +16,7 @@ the assignment was to get a serial moniter to print a countdown from 10 to 0 the
 
 ### Evidence 
 
-![code](![ezgif com-gif-maker](https://user-images.githubusercontent.com/71406930/197840183-42098557-9022-424a-a75e-4ba3f2fd44a0.gif))
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/71406930/197840183-42098557-9022-424a-a75e-4ba3f2fd44a0.gif))
 
 ### Wiring
 
