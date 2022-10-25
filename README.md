@@ -83,6 +83,7 @@ The assignment was to have everything that the previous assignment has but to ha
 Have an accelerometer that continuously reports x, y, and z acceleration values on the serial monitor.
 
 ### Evidence
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/71406930/197847911-220098d5-6e28-44e9-b7e7-5044e7f6bd3b.gif)
 
 
 ### Wiring
