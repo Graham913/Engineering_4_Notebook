@@ -75,6 +75,7 @@ The assignment was to have everything that the previous assignment has but to ha
 ### Wiring
 ![wiring for ServoLED](images/ServoLED.PNG) 
 ### Code
+[LED servo countdown code](https://github.com/Graham913/Engineering_4_Notebook/blob/main/raspberry-pi/servo.py)
 &nbsp;
 
 ## Onshape_Assignment_Template
