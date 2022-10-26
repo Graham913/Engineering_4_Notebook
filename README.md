@@ -77,6 +77,9 @@ The assignment was to have everything that the previous assignment has but to ha
 ### Code
 [LED servo countdown code](https://github.com/Graham913/Engineering_4_Notebook/blob/main/raspberry-pi/servo.py)
 
+### Reflection
+This assignment was relatively easy, make sure that your servo actually works before taking it I learned this the hard way. Set it to 0 degrees before turning it to 180. Color code your wiring according to the colors on the servo itll make it easier.
+
 ## Crash Avoidance Part 1
 
 ### Assignment Description
@@ -122,27 +125,27 @@ Have everything that you had from the previous assignment as well as an onboard 
 ### Evidence
 
 ### Wiring
-
+![wiring for Crash3](images/Crash3.PNG) 
 ### Code
 [Crash3 code](https://github.com/Graham913/Engineering_4_Notebook/blob/main/crash3.py)
 ### Reflection
-
+This assignment was probably the one I was most confused on. Make sure to triple check your wiring and have different colors for different things or it will be easy to get confused. Read the assignment carefully becuase a lot of the defines and hints are on there and they are really helpful.
 ## Landing Area Part 1
 
 ### Assignment Description
-
+The code must ask the user to input 3 coordinates and, using a function, find the area and print the area in the terminal like so-The area of the triangle with vertices (x,y), (x,y), (x,y) is {area} square km
 ### Evidence
 
 ### Wiring
-
+N/A
 ### Code 
 [Landing Area 1 code](https://github.com/Graham913/Engineering_4_Notebook/blob/main/landingarea.py)
 ### Reflection
-
+Writing the function of this assignment was probably the hardest part. Make sure the keep track of each x and y coordinate as well as make sure that the parantheses are correct. Make sure to call the function after you define it. 
 ## Landing Area Part 2
 
 ### Assignment Description
-
+Everything from the previous assignment but have it plot the triangle on a coordinate plane on the OLED screen.
 ### Evidence
 
 ### Wiring
@@ -150,27 +153,27 @@ Have everything that you had from the previous assignment as well as an onboard 
 ### Code 
 [Landing Area 2 code](https://github.com/Graham913/Engineering_4_Notebook/blob/main/landingarea2)
 ### Reflection
-
+There were a lot of imports in this assignment make sure you have everything from the adafruit library on your D drive. This assignment is pretty much smooshing the previous assignments together in terms of code from the OLED screen. The screen thinks the origin is in the upper left corner so make sure to add 64 for x and 32 for y.
 ## Morse Code Part 1
 
 ### Assignment Description
-
+Write code to translate user input into morse code.
 ### Evidence
 
 ### Wiring
-
+N/A
 ### Code 
 [Morse Code Part 1 code](https://github.com/Graham913/Engineering_4_Notebook/blob/main/morse1.py)
 ### Reflection
-
+THe entire dictionary you need is on the assignment. You can name your variable anything but make it easy to remember. Make sure to have the if break command before you convert the message to upper case or it wont work.
 ## Morse Code Part 2
 
 ### Assignment Description
-
+everything from the previous morse code assignment but have an led blink in morse code what you translate.
 ### Evidence
 
 ### Wiring
-
+![wiring for countdownLED](images/CountdownLED.PNG)  
 ### Code 
 [Morse Code Part 2 code](https://github.com/Graham913/Engineering_4_Notebook/blob/main/morse2.py)
 ### Reflection
