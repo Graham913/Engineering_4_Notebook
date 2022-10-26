@@ -173,7 +173,8 @@ everything from the previous morse code assignment but have an led blink in mors
 ### Evidence
 
 ### Wiring
-![wiring for countdownLED](images/CountdownLED.PNG)  
+![wiring for Morse2](images/Morse2.PNG) 
+ 
 ### Code 
 [Morse Code Part 2 code](https://github.com/Graham913/Engineering_4_Notebook/blob/main/morse2.py)
 ### Reflection
