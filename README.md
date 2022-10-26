@@ -152,7 +152,7 @@ Everything from the previous assignment but have it plot the triangle on a coord
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/71406930/197931200-27b4c2ff-402d-4328-9f55-5f6737299ca0.gif)
 
 ### Wiring
-
+![wiring for Crash3](images/Crash3.PNG) 
 ### Code 
 [Landing Area 2 code](https://github.com/Graham913/Engineering_4_Notebook/blob/main/landingarea2)
 ### Reflection
@@ -183,7 +183,7 @@ everything from the previous morse code assignment but have an led blink in mors
 ### Code 
 [Morse Code Part 2 code](https://github.com/Graham913/Engineering_4_Notebook/blob/main/morse2.py)
 ### Reflection
-
+As the final Pico assignment it wasn't difficult at all. For your new variable I recommend making it have something in common with the other variable that you already had from the previous assignment. Double chedck colons at the end of the for and if commands. Make sure to put time.sleep(between_taps) even after the led is turned off.
 
 
 
