@@ -1,5 +1,5 @@
 #type:ignore
-def area_calc(x1, x2, x3, y1, y2, y3):
+def area_calc(x1, x2, x3, y1, y2, y3): # make sure to define your function before anything
     area = abs((1/2) * (x1 * (y2 - y3) + x2 * (y3 - y1) + x3 * (y1 - y2) ) )
 
     print(area)
@@ -14,7 +14,7 @@ while True:
   coordinate3 = input()
 
   try:
-    coordinate1 = coordinate1.split(",")
+    coordinate1 = coordinate1.split(",") # try except commands are for isolating certain inputs to do something
     coordinate2 = coordinate2.split(",")
     coordinate3 = coordinate3.split(",")
     x1 = float(coordinate1[0])
@@ -23,7 +23,7 @@ while True:
 
     y1 = float(coordinate1[1])
     y2 = float(coordinate2[1])
-    y3 = float(coordinate3[1])
+    y3 = float(coordinate3[1]) # floating the coordinates makes them actual numbers
     print(y3)
 
     area = area_calc(x1, x2, x3, y1, y2, y3)
