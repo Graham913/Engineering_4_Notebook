@@ -123,6 +123,7 @@ This isn't too big of a step from crash1. It introduces the if or statement whic
 Have everything that you had from the previous assignment as well as an onboard screen that prints x, y, and z angular velocity values (rad/s) rounded to 3 decimal places.
 
 ### Evidence
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/71406930/197930777-1497afab-6583-4bb5-b642-9440d67a251c.gif)
 
 ### Wiring
 ![wiring for Crash3](images/Crash3.PNG) 
