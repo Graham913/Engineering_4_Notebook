@@ -124,7 +124,7 @@ Have everything that you had from the previous assignment as well as an onboard 
 ### Wiring
 
 ### Code
-
+[Crash3 code](https://github.com/Graham913/Engineering_4_Notebook/blob/main/crash3.py)
 ### Reflection
 
 ## Landing Area Part 1
@@ -136,7 +136,7 @@ Have everything that you had from the previous assignment as well as an onboard 
 ### Wiring
 
 ### Code 
-
+[Landing Area 1 code](https://github.com/Graham913/Engineering_4_Notebook/blob/main/landingarea.py)
 ### Reflection
 
 ## Landing Area Part 2
@@ -148,19 +148,7 @@ Have everything that you had from the previous assignment as well as an onboard 
 ### Wiring
 
 ### Code 
-
-### Reflection
-
-## Landing Area Part 3
-
-### Assignment Description
-
-### Evidence
-
-### Wiring
-
-### Code 
-
+[Landing Area 2 code](https://github.com/Graham913/Engineering_4_Notebook/blob/main/landingarea2)
 ### Reflection
 
 ## Morse Code Part 1
@@ -172,7 +160,7 @@ Have everything that you had from the previous assignment as well as an onboard 
 ### Wiring
 
 ### Code 
-
+[Morse Code Part 1 code](https://github.com/Graham913/Engineering_4_Notebook/blob/main/morse1.py)
 ### Reflection
 
 ## Morse Code Part 2
@@ -184,7 +172,7 @@ Have everything that you had from the previous assignment as well as an onboard 
 ### Wiring
 
 ### Code 
-
+[Morse Code Part 2 code](https://github.com/Graham913/Engineering_4_Notebook/blob/main/morse2.py)
 ### Reflection
 
 
