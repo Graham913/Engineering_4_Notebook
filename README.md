@@ -98,7 +98,7 @@ This assignment was a big step from the countdowns. Make sure to slowly read the
 ## Crash Avoidance Part 2
 
 ### Assignment Description
-Have an accelerometer that continuously reports x, y, and z acceleration values on the serial monitor and when the module moves to 90 degrees have an LED turn on.
+Have an accelerometer that continuously reports x, y, and z acceleration values on the serial monitor and when the module moves to 90 degrees have an LED turn on as well as be powered by a battery.
 
 ### Evidence
 
@@ -109,10 +109,102 @@ Have an accelerometer that continuously reports x, y, and z acceleration values 
 ![wiring for Crash2](images/Crash2.PNG) 
 
 ### Code
-[Crash1 code](https://github.com/Graham913/Engineering_4_Notebook/blob/main/crash1.py)
+[Crash2 code](https://github.com/Graham913/Engineering_4_Notebook/blob/main/crash2.py)
 
 ### Reflection
 This isn't too big of a step from crash1. It introduces the if or statement which is for each plane going to 90 degrees. Read carefully when you type it and double check the intergers are right.
+
+## Crash Avoidance Part 3
+
+### Assignment Description
+Have everything that you had from the previous assignment as well as an onboard screen that prints x, y, and z angular velocity values (rad/s) rounded to 3 decimal places.
+
+### Evidence
+
+### Wiring
+
+### Code
+
+### Reflection
+
+## Landing Area Part 1
+
+### Assignment Description
+
+### Evidence
+
+### Wiring
+
+### Code 
+
+### Reflection
+
+## Landing Area Part 2
+
+### Assignment Description
+
+### Evidence
+
+### Wiring
+
+### Code 
+
+### Reflection
+
+## Landing Area Part 3
+
+### Assignment Description
+
+### Evidence
+
+### Wiring
+
+### Code 
+
+### Reflection
+
+## Morse Code Part 1
+
+### Assignment Description
+
+### Evidence
+
+### Wiring
+
+### Code 
+
+### Reflection
+
+## Morse Code Part 2
+
+### Assignment Description
+
+### Evidence
+
+### Wiring
+
+### Code 
+
+### Reflection
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 &nbsp;
 
 ## Onshape_Assignment_Template
