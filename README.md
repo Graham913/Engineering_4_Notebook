@@ -136,6 +136,7 @@ This assignment was probably the one I was most confused on. Make sure to triple
 ### Assignment Description
 The code must ask the user to input 3 coordinates and, using a function, find the area and print the area in the terminal like so-The area of the triangle with vertices (x,y), (x,y), (x,y) is {area} square km
 ### Evidence
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/71406930/197931058-1bb237e0-489f-4738-b142-33b491400871.gif)
 
 ### Wiring
 N/A
@@ -148,6 +149,7 @@ Writing the function of this assignment was probably the hardest part. Make sure
 ### Assignment Description
 Everything from the previous assignment but have it plot the triangle on a coordinate plane on the OLED screen.
 ### Evidence
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/71406930/197931200-27b4c2ff-402d-4328-9f55-5f6737299ca0.gif)
 
 ### Wiring
 
@@ -160,6 +162,7 @@ There were a lot of imports in this assignment make sure you have everything fro
 ### Assignment Description
 Write code to translate user input into morse code.
 ### Evidence
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/71406930/197931361-739798bb-ed68-451a-904a-783ace247184.gif)
 
 ### Wiring
 N/A
@@ -172,6 +175,7 @@ THe entire dictionary you need is on the assignment. You can name your variable 
 ### Assignment Description
 everything from the previous morse code assignment but have an led blink in morse code what you translate.
 ### Evidence
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/71406930/197931508-62e3e46a-d5fd-43af-958d-f3bd518565eb.gif)
 
 ### Wiring
 ![wiring for Morse2](images/Morse2.PNG) 
