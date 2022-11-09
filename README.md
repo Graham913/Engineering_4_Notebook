@@ -240,7 +240,7 @@ https://cvilleschools.onshape.com/documents/54cd02e8213ad47e874c9d63/w/f8672ff7e
 
 ### Reflection
 
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+After running the simulation we determined that the place of most stressed was close to where the base of the beam is. We managed to chamfer off a little more from the other end of them beam and added supported on each side. Putting holes in the beam near where the bucket is held doesnt take off much stress but takes off weight. 
 
 &nbsp;
 
