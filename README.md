@@ -204,6 +204,26 @@ As the final Pico assignment it wasn't difficult at all. For your new variable I
 
 &nbsp;
 
+
+
+## Beam Part 1
+
+### Assignment Description
+
+Design a beam with the goal of maximizing weight beofre failure. it cannot bend more than 35mm.
+
+### Part Link 
+
+https://cvilleschools.onshape.com/documents/54cd02e8213ad47e874c9d63/w/f8672ff7eef13254d9215e03/e/a046d286a6beaf0e9828b68b?aa=true
+
+### Part Image
+
+![Design for beam 1](images/Beam1.PNG) 
+### Reflection
+
+What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+
+
 ## Onshape_Assignment_Template
 
 ### Assignment Description
