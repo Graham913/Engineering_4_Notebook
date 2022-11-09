@@ -224,7 +224,7 @@ https://cvilleschools.onshape.com/documents/54cd02e8213ad47e874c9d63/w/f8672ff7e
 We decided that a vertical beam would much much stronger. We reduced weight by chamfering the end where the bucket would be attached. We cut a hole in the beam near the end to reduce weight and since its near the downward force the stress would be less.
 
 
-## Onshape_Assignment_Template
+## Beam Part 2
 
 ### Assignment Description
 
