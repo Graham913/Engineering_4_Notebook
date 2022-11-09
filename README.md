@@ -221,22 +221,22 @@ https://cvilleschools.onshape.com/documents/54cd02e8213ad47e874c9d63/w/f8672ff7e
 ![Design for beam 1](images/Beam1.PNG) 
 ### Reflection
 
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+We decided that a vertical beam would much much stronger. We reduced weight by chamfering the end where the bucket would be attached. We cut a hole in the beam near the end to reduce weight and since its near the downward force the stress would be less.
 
 
 ## Onshape_Assignment_Template
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+Run one static finite element analysis on your beam to determine what areas need to be improved.
 
 ### Part Link 
 
-[Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
+https://cvilleschools.onshape.com/documents/54cd02e8213ad47e874c9d63/w/f8672ff7eef13254d9215e03/e/74dd8de3097cb51ce76834c9
 
 ### Part Image
 
-Take a nice screenshot of your Onshape document. 
+![Design for beam 2](https://github.com/Graham913/Engineering_4_Notebook/blob/main/images/beam%20project%20.png) 
 
 ### Reflection
 
