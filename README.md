@@ -242,6 +242,26 @@ https://cvilleschools.onshape.com/documents/54cd02e8213ad47e874c9d63/w/f8672ff7e
 
 After running the simulation we determined that the place of most stressed was close to where the base of the beam is. We managed to chamfer off a little more from the other end of them beam and added supported on each side. Putting holes in the beam near where the bucket is held doesnt take off much stress but takes off weight. 
 
+
+## Beam Part 3
+
+### Assignment Description
+
+improve areas of the beam that are weak
+
+### Part Link 
+
+https://cvilleschools.onshape.com/documents/54cd02e8213ad47e874c9d63/w/f8672ff7eef13254d9215e03/e/a046d286a6beaf0e9828b68b
+
+### Part Image
+
+![Design for beam 3](https://github.com/Graham913/Engineering_4_Notebook/blob/main/images/Beam3.PNG) 
+
+### Reflection
+
+After the simultion there was still stress at the base. We cut another cirle out near the end for weight reduction. We added more supports to the base. We chamfered more off the end as well.
+
+
 &nbsp;
 
 ## Media Test
