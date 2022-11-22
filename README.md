@@ -261,6 +261,22 @@ https://cvilleschools.onshape.com/documents/54cd02e8213ad47e874c9d63/w/f8672ff7e
 
 After the simultion there was still stress at the base. We cut another cirle out near the end for weight reduction. We added more supports to the base. We chamfered more off the end as well.
 
+## Ring and Spinner
+
+### Assignment Description
+collaborate and design the ring or spinner
+
+### Part Link 
+
+https://cvilleschools.onshape.com/documents/d9dfe5138a6a8b7d604d80e7/w/e26dd64ce496070f7a34fb74/e/786dc9136acff99c5046230e
+### Part Image
+
+![Design for Spinner](https://github.com/Graham913/Engineering_4_Notebook/blob/main/images/Spinner.PNG) 
+
+### Reflection
+make sure to double check that you clicked the right line for certain patterns.
+
+
 
 &nbsp;
 
