@@ -276,8 +276,19 @@ https://cvilleschools.onshape.com/documents/d9dfe5138a6a8b7d604d80e7/w/e26dd64ce
 ### Reflection
 make sure to double check that you clicked the right line for certain patterns. Use a sweep to get the sort of helix shaped up the cylinder. Double check te mass at the end to make sure you didn't miss any chamfers. 
 
+## Key and prop
 
+### Assignment Description
+collaborate and design a key or prop I designed the prop
 
+### part link
+
+https://cvilleschools.onshape.com/documents/d9dfe5138a6a8b7d604d80e7/w/e26dd64ce496070f7a34fb74/e/786dc9136acff99c5046230e 
+### part image
+![cbvhmdghnxfgbxfgb](https://user-images.githubusercontent.com/71406930/225710004-6be1082a-33fb-4d25-bd4b-1736405dedbc.PNG)
+
+### Reflection
+Make sure you have the right thing selected for the extrude or youll break everything. circular patterns are your friend. Use the helix to fit the spinner for it.
 &nbsp;
 
 ## Media Test
