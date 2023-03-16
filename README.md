@@ -274,7 +274,7 @@ https://cvilleschools.onshape.com/documents/d9dfe5138a6a8b7d604d80e7/w/e26dd64ce
 ![Design for Spinner](https://github.com/Graham913/Engineering_4_Notebook/blob/main/images/Spinner.PNG) 
 
 ### Reflection
-make sure to double check that you clicked the right line for certain patterns.
+make sure to double check that you clicked the right line for certain patterns. Use a sweep to get the sort of helix shaped up the cylinder. Double check te mass at the end to make sure you didn't miss any chamfers. 
 
 
 
