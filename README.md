@@ -289,6 +289,19 @@ https://cvilleschools.onshape.com/documents/d9dfe5138a6a8b7d604d80e7/w/e26dd64ce
 
 ### Reflection
 Make sure you have the right thing selected for the extrude or youll break everything. circular patterns are your friend. Use the helix to fit the spinner for it.
+
+## pull copter
+
+### Assignment Descrpition
+assemble the pull copter
+
+### part link
+https://cvilleschools.onshape.com/documents/d9dfe5138a6a8b7d604d80e7/w/e26dd64ce496070f7a34fb74/e/11c83e1f303bdcddc942021e
+### part image
+![sfdaegyfdkdfge](https://user-images.githubusercontent.com/71406930/225711360-65322029-715a-4d8a-8911-b21fe7d9036f.PNG)
+
+### reflection
+I used a lot of fastened mates to put everything together. I used a slider mate for the key. I also animated the whole thing at the end to see if it worked properly.
 &nbsp;
 
 ## Media Test
